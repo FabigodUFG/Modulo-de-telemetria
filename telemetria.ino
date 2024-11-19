@@ -46,5 +46,5 @@ void loop() {
   Serial.print(", ");
   Serial.println(marcha);
   
-  delay(1000);                          // Intervalo entre envios para evitar sobrecarga
+  delay(500);                          // Intervalo entre envios para evitar sobrecarga
 }
